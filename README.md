@@ -4,14 +4,18 @@
 
 
 
-[Brief Introduction - Remove this afterwards]
+ Hi! I’m [Your Name], an enthusiastic learner in cloud and network engineering with a strong interest in Google Cloud. I'm dedicated to building a solid understanding of cloud services and network engineering as I work through various learning projects.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+- 🎓 Currently working on my first projects using Google Cloud Platform (GCP) to get hands-on experience with services like Cloud Storage, BigQuery, and App Engine.
+- 🛠️ Interested in network security, cloud automation, and data processing as I grow my skill set.
+- 🤝 Looking for opportunities to collaborate with others on beginner-to-intermediate cloud projects to learn together!
+
+If you're into cloud computing or networking and want to exchange ideas, let's connect!
+
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Throughout my journey in Network Engineering, I've developed a strong understanding of how networks function and the importance of maintaining reliable systems. As I've gained experience, I’ve found myself increasingly drawn to cloud computing and DevOps. The ability to integrate development and operations to streamline processes and foster collaboration excites me. I’m now ready to transition into the DevOps field and be part of a team where I can apply my network skills, learn new technologies, and help deploy and manage cloud-based solutions effectively.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
