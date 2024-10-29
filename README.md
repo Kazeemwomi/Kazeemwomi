@@ -4,7 +4,7 @@
 
 
 
- Hi! I’m [Your Name], an enthusiastic learner in cloud and network engineering with a strong interest in Google Cloud. I'm dedicated to building a solid understanding of cloud services and network engineering as I work through various learning projects.
+ I am an enthusiastic learner in cloud and network engineering with a strong interest in Google Cloud. I'm dedicated to building a solid understanding of cloud services and network engineering as I work through various learning projects.
 
 - 🎓 Currently working on my first projects using Google Cloud Platform (GCP) to get hands-on experience with services like Cloud Storage, BigQuery, and App Engine.
 - 🛠️ Interested in network security, cloud automation, and data processing as I grow my skill set.
