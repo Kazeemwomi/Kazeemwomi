@@ -18,13 +18,12 @@ If you're into cloud computing or networking and want to exchange ideas, let's c
 Throughout my journey in Network Engineering, I've developed a strong understanding of how networks function and the importance of maintaining reliable systems. As I've gained experience, I’ve found myself increasingly drawn to cloud computing and DevOps. The ability to integrate development and operations to streamline processes and foster collaboration excites me. I’m now ready to transition into the DevOps field and be part of a team where I can apply my network skills, learn new technologies, and help deploy and manage cloud-based solutions effectively.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Networking          | <a href="https://google.com">Detection Lab</a>|
-| Cloud Fundamentals (GCP) | <a href="https://google.com">Detection Lab</a>|
-| Python Programming         | <a href="https://google.com">Python</a>|
+| Networking          | <a href="https://google.com">Networking Lab</a>|
+| Cloud (GCP) | <a href="https://google.com">GCP Lab</a>|
+| Python Programming         | <a href="https://google.com">Python lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
@@ -55,7 +54,18 @@ Throughout my journey in Network Engineering, I've developed a strong understand
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
+## Certifications
+
+### Cisco Certified Network Associate (CCNA)
+[![CCNA Badge](https://images.credly.com/size/220x220/images/2846d6f0-e50a-4a14-b91e-7c524d1d18e8/image.png)](https://www.credly.com/badges/270f0cb6-bdd8-4c05-944c-15513a3cf4dc/public_url)
+
+**Issuer**: Cisco  
+**Cisco ID**: [CSCO14524875] 
+**Certificate Verification NO**: [87947d41020e405395b5e89017ea22bc]
+**Certification Date**: [March 21, 2024]
+
+
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
