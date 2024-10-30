@@ -24,7 +24,7 @@ Throughout my journey in Network Engineering, I've developed a strong understand
 |-----------------------------------------------|----------------------------|
 | Networking          | <a href="https://google.com">Detection Lab</a>|
 | Cloud Fundamentals (GCP) | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Python Programming         | <a href="https://google.com">Python</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
