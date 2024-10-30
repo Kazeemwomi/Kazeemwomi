@@ -57,15 +57,17 @@ Throughout my journey in Network Engineering, I've developed a strong understand
 
 
 
+## Certifications
+
 ### Cisco Certified Network Associate (CCNA)
-[![CCNA Badge](https://images.credly.com/size/220x220/images/2846d6f0-e50a-4a14-b91e-7c524d1d18e8/image.png)](https://www.credly.com/badges/270f0cb6-bdd8-4c05-944c-15513a3cf4dc/public_url)
+[![CCNA Badge](https://img.shields.io/badge/-CCNA-007ACC?&style=for-the-badge&logo=Cisco&logoColor=white)](https://www.credly.com/badges/270f0cb6-bdd8-4c05-944c-15513a3cf4dc/public_url)
 
-**Issuer**: Cisco  
-**Cisco ID**: CSCO14524875 
-**Certificate Verification NO**: 87947d41020e405395b5e89017ea22bc
-**Certification Date**: March 21, 2024
-
-<img src="https://img.shields.io/badge/-CCNA-007ACC?&style=for-the-badge&logo=Cisco&logoColor=white" />
+| **Detail**                      | **Information**                        |
+|---------------------------------|---------------------------------------|
+| **Issuer**                      | Cisco                                 |
+| **Cisco ID**                    | CSCO14524875                          |
+| **Certificate Verification NO**  | 87947d41020e405395b5e89017ea22bc    |
+| **Certification Date**          | March 21, 2024                       |
 
 
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
